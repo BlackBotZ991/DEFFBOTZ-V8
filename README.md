@@ -23,7 +23,7 @@
 
 ## Config
 
-Isi semua yang dibutuhkan di file [`config.js`](https://github.com/DEFF-Y/DEFFBOTZ-V8/blob/main/config.js)<br />
+Isi semua yang dibutuhkan di file [`config.js`](https://github.com/DEFF-Y/DEFFBOTZ-V8/blob/master/connect/config.js)<br />
 
 ## Request atau report bug
 
@@ -36,7 +36,7 @@ Untuk request atau report bug bisa chat saya disini [Whatsapp](https://wa.me/wa.
 ```bash
 $ pkg update && pkg upgrade
 $ pkg i nodejs && pkg i git && pkg i yarn && pkg i libwebp && pkg i ffmpeg && pkg i imagemagick
-$ git clone https://github.com/ZackMans/DEFFBOTZ-V8
+$ git clone https://github.com/DEFF-Y/DEFFBOTZ-V8
 $ cd DEFFBOTZ-V8
 $ yarn install && node index.js
 # Scan QR
